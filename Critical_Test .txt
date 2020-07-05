@@ -1,10 +1,1 @@
-remote changes 1
-remote changes 2
-remote changes 3
-remote changes 4
-remote changes 5
-remote changes 6
-
-
-hello world!
-hello remote 123
+local change 0
