@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 local change 0
-=======
+
 Next Year I will be at Abudhabi
->>>>>>> abhi
+
